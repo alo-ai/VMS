@@ -55,12 +55,12 @@ To upgrade:
 
 2. The Milestone Smart Client requires a restart to load the ALO plugin. To verify that the plugin is loaded properly:
 
-1. Open the options menu as shown in Screenshot 1.
-2. Click on 'About'.
-3. Ensure the plugin is listed as shown in Screenshot 2.
+   - **A.** Open the options menu as shown in Screenshot 1.
+   - **B.** Click on 'About'.
+   - **C.** Ensure the plugin is listed as shown in Screenshot 2.
 
- <img src="Images/screenshot1.png" alt="Screenshot 1" width="200" height="150" style="margin: 10px;" />
- <img src="Images/screenshot2.png" alt="Screenshot 2" width="200" height="150" style="margin: 10px;" />
+   <img src="Images/screenshot1.png" alt="Screenshot 1" width="200" height="150" style="margin: 10px;" />
+   <img src="Images/screenshot2.png" alt="Screenshot 2" width="200" height="150" style="margin: 10px;" />
 
 ## Support
 
