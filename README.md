@@ -44,7 +44,15 @@ To upgrade:
 2. Install the new version.
 
 ## Troubleshooting
-The Milestone Smart Client requires a restart to load the ALO plugin. To verify that the plugin is loaded properly:
+1. Check the Milestone logs and make sure the ALO plugin is loaded.
+   - **A. Make sure the logging is enabled:**
+     - Go to Settings (gear icon in the upper right corner of the window).
+     - Go to the Advanced tab.
+     - Switch Logging (for technical support) to Enabled.
+
+   - **B. Check the logs at this path:** `C:\ProgramData\Milestone\XProtect Smart Client\MIPLog`
+
+2. The Milestone Smart Client requires a restart to load the ALO plugin. To verify that the plugin is loaded properly:
 
 1. Open the options menu as shown in Screenshot 1.
 2. Click on 'About'.
