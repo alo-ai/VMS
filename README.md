@@ -52,6 +52,7 @@ To upgrade:
 
    - **B. Check the logs at this path:** `C:\ProgramData\Milestone\XProtect Smart Client\MIPLog`
 
+
 2. The Milestone Smart Client requires a restart to load the ALO plugin. To verify that the plugin is loaded properly:
 
 1. Open the options menu as shown in Screenshot 1.
